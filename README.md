@@ -180,3 +180,4 @@ But also in non-interactive mode:
 ## AUTHORS
 **GitHub: [Moshood Age](https://github.com/cool-Moshood)**
 **GitHub: [Jane Badmus](https://github.com/OJ-Baddie)**
+ALX simple shell task
